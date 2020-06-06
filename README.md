@@ -1,7 +1,5 @@
 # Finance App Based on Vue js and CoreUI
 
-[![Vue](https://img.shields.io/badge/Vue-^2.6.11-brightgreen.svg?style=flat-square)][bcp]
-[bcp]: https://bacapikiran.com/
 ![Template](https://coreui.io/images/github/vue-free-template-3.gif)
 
 ## Description
